@@ -10,7 +10,7 @@ A two-player shooting game where players defeat multiple waves of enemies. I was
 ### SignShootingTime:
 An arcade game where players survive as long as possible against barrages of projectiles coming from multiple directions. I worked on the projectile system, item mechanics, and related functionalities.
 
-### Unity6Challenge (In Development):
+### Unity6Challenge:
 An endless runner game developed as part of the Unity Korea "Unity 6 Challenge," aimed at learning and experimenting with the newly released Unity 6 engine.
 
 ### Boj:
