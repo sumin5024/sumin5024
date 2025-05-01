@@ -2,7 +2,7 @@
 Description of Files and Games I Have Developed Collaboratively or Individually
 
 ### Project_S (In Development with Collaborators):
-A roguelike nautical adventure game. Currently working on core mechanics such as ship assembly and other essential gameplay logic.
+A roguelike nautical adventure game. 
 
 ### 2024SummerProject:
 A two-player shooting game where players defeat multiple waves of enemies. I was responsible for creating and managing various enemy entities, implementing player interactions, designing levels, adjusting gameplay balance, and crafting camera movement mechanics.
