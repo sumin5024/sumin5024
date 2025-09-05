@@ -1,7 +1,7 @@
 ## About Repository and Games
 Description of Files and Games I Have Developed Collaboratively or Individually
 
-### Project_S (In Development with Collaborators):
+### Project_S :
 A roguelike nautical adventure game. 
 
 ### 2024SummerProject:
